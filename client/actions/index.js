@@ -8,3 +8,11 @@ export const addWord = (word) => {
   }
 }
 
+const size = 1.4;
+
+Math.floor(size);
+//console.log(size);
+Math.trunc(size);
+//console.log(size);
+Math.round(size);
+console.log(size);
