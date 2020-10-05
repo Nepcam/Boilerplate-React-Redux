@@ -7,3 +7,4 @@ export const addWord = (word) => {
     word
   }
 }
+
